@@ -1,0 +1,55 @@
+/********************İNDEX********************/
+/*BODY*/
+body {
+    background-color: #F6F6F6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*NAVBAR*/
+h1 {
+    color: rgb(1, 124, 83);
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.menu {
+    list-style: none;
+    margin: 0; padding: 0;
+}
+
+.menu li {
+    float: left;
+    margin: 17px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(1, 124, 83);
+    font-weight: bold;
+    font-size: 25px;
+}
+ 
+.acıklama {
+     font-size: 17px;
+ }
+
+ .odalar {
+     font-size: 17px;
+ }
+
+ .odalar h3 {
+     font-style: oblique;
+     font-size: 25px;
+     color: rgb(128, 3, 86);
+ }
+
+
+ /********************CONTACT********************/
+ .iletisim {
+     font-size: 17px;
+ }
+
+ .iletisim h2 {
+     color: rgb(128, 3, 86);
+ }
